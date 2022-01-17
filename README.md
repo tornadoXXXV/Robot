@@ -9,3 +9,9 @@ raspberryPi上でall.pyを実行することで使用できる。
 
 # Wiring
 <img src="https://github.com/tornadoXXXV/Robot/blob/main/images/wiring.jpg"> 
+
+# References
+川島賢『画像認識プログラミングレシピ』株式会社 秀和システム https://github.com/Kokensha/book-ml  
+DEVICE PLUS 「ラズパイ電子工作の基本① サーボモータを使って指さし温度計を作っ
+てみよう」 https://deviceplus.jp/hobby/raspberrypi_f01/  
+Raspberry Pi とサーボモータで踊るはにわ制作 https://dotstud.io/blog/dancing-haniwaservo-raspi/
